@@ -1,0 +1,9 @@
+name: μBounce
+
+main: me.supermaxman.ubounce.uBounce
+
+version: 4.0
+
+description: uBounce
+
+commands:
